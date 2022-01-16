@@ -9,36 +9,36 @@ If the user chooses pattern 3, the name of the text file will be "masoni_3.txt".
 ## Visuals
 If the user inputs a pattern size of 5, here is what each pattern would look like.
 
-pattern 1:
-5****
-*5***
-**5**
-***5*
-****5
+pattern 1:\
+5**** \
+*5*** \
+**5** \
+***5* \
+****5 \
 
 
-Pattern 2:
-****5
-***5*
-**5**
-*5***
-5****
+Pattern 2: \
+****5 \
+***5* \
+**5** \
+*5*** \ 
+5**** \
 
 
-pattern 3:
-*****
-****5
-***55
-**555
-*5555
+pattern 3: \
+***** \
+****5 \
+***55 \
+**555 \
+*5555 \
 
 
-pattern 4:
-*****
-5****
-55***
-555**
-5555*
+pattern 4: \
+***** \
+5**** \
+55*** \
+555** \
+5555* \
 
 ## Installation and compiling
 The file will download in a .c file. It can be opened with notepad, notepad++ and other basic text editors. The program was written and compiled 
